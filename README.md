@@ -5,4 +5,4 @@ A Python script that automates downloading Instagram Stories for selected users 
 
 ---
 
-#readme coming soon.#
+# readme coming soon. #
